@@ -4,6 +4,8 @@
 
 [Let it die](Let it die)
  
+[Pleasure](Pleasure)
+
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/Feist/Let it die/cd/01 曲目 1 未知艺术家 未知唱片集 (2015-11-28 23-33-51) 未知 192kbps.mp3" type="audio/mpeg">
