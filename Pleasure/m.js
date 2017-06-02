@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Pleasure.mp3";		
+f[2]	= "02 I Wish I Didn't Miss You.mp3";		
+f[3]	= "03 Get Not High, Get Not Low.mp3";		
+f[4]	= "04 Lost Dreams.mp3";		
+f[5]	= "05 Any Party.mp3";		
+f[6]	= "06 A Man Is Not His Song.mp3";		
+f[7]	= "07 The Wind.mp3";		
+f[8]	= "08 Century.mp3";		
+f[9]	= "09 Baby Be Simple.mp3";		
+f[10]	= "10 I Am Not Running Away.mp3";		
+f[11]	= "11 Young Up.mp3";		
